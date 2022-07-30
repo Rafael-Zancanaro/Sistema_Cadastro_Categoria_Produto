@@ -1,2 +1,1 @@
-# Refazendo
-Trabalhos refeitos para praticar
+# Projeto feito em casa para praticar quandoo eu ainda estava aprendendo kkk
