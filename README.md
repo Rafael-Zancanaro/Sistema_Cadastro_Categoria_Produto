@@ -1,1 +1,1 @@
-# Projeto feito em casa para praticar quandoo eu ainda estava aprendendo kkk
+# Este projeto foi feito em casa para praticar quando eu ainda estava aprendendo kkk
